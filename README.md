@@ -1,2 +1,2 @@
 # Fintune_SAM
-Fi
+Fine-tunining Segment Anything with medical image dataset
